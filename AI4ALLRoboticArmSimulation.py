@@ -67,7 +67,7 @@ TYPES = {
     "blueberry": {"rgb": [0.20, 0.25, 0.78],
                   "hsv": [([100, 110, 50], [135, 255, 255])]},
 }
-
+# fruits under here
 # meshes for the shaped fruit; grapes are a simple small green sphere
 SCALE = {"apple": 0.085, "orange": 0.088, "banana": 0.150, "blueberry": 0.070}
 GRAPE_R = 0.035
